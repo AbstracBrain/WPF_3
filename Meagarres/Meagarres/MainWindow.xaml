@@ -1,0 +1,15 @@
+﻿<Window x:Class="Meagarres.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Meagarres"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image Source="Fotos/blue.jpg" Stretch="UniformToFill"></Image>
+        <Image HorizontalAlignment="Left" Height="276" Margin="41,72,0,0" VerticalAlignment="Top" Width="385" Source="Fotos/tulipanes.jpg"/>
+        <Button Content="Presioname" HorizontalAlignment="Left" Margin="554,228,0,0" VerticalAlignment="Top" Width="162" Height="98" Background="#FF357ADE" FontFamily="Times New Roman" FontSize="16"/>
+
+    </Grid>
+</Window>
