@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canva", "Canva\Canva.csproj", "{74911B57-E216-4787-99B9-6AE1E69A09DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74911B57-E216-4787-99B9-6AE1E69A09DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74911B57-E216-4787-99B9-6AE1E69A09DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74911B57-E216-4787-99B9-6AE1E69A09DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74911B57-E216-4787-99B9-6AE1E69A09DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8746873-E7DD-4437-B3F8-A91D1FAEB83D}
+	EndGlobalSection
+EndGlobal

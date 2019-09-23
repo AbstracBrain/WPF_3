@@ -1,0 +1,19 @@
+﻿<Window x:Class="Canva.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Canva"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button  Content="Limpiar" HorizontalAlignment="Left" Margin="333,361,0,0" VerticalAlignment="Top" Width="98" RenderTransformOrigin="0.318,3.075" Height="53" Click="Lienzo_Click"/>
+        <InkCanvas x:Name="Lienzo" HorizontalAlignment="Left" Height="361" VerticalAlignment="Top" Width="792">
+            <InkCanvas.DefaultDrawingAttributes>
+                <DrawingAttributes Color="DarkGreen" Width="5" Height="20" FitToCurve="True" IsHighlighter="False"/>
+
+            </InkCanvas.DefaultDrawingAttributes>
+            <Label Content="Ella no te ama, entiendelo"/>
+        </InkCanvas>
+    </Grid>
+</Window>
