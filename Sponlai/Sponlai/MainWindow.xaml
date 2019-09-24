@@ -19,6 +19,7 @@
                 <ComboBoxItem Content="Blue"/>
                 <ComboBoxItem Content="White"/>
                 <ComboBoxItem Content="Black"/>
+                <ComboBoxItem Content="Pink"/>
             </ComboBox>
             <TextBox Name="textBox" Margin="50" Width="100" Height="23" VerticalAlignment="Top"
                      Text="{Binding ElementName=comboBox, Path=SelectedItem.Content, 
