@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sponlai", "Sponlai\Sponlai.csproj", "{96186140-AC5C-4A88-A1F3-563DE1DA1602}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96186140-AC5C-4A88-A1F3-563DE1DA1602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96186140-AC5C-4A88-A1F3-563DE1DA1602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96186140-AC5C-4A88-A1F3-563DE1DA1602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96186140-AC5C-4A88-A1F3-563DE1DA1602}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21F66AA0-E76E-4E1D-9370-C0F549AD4401}
+	EndGlobalSection
+EndGlobal
